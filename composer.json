@@ -6,7 +6,7 @@
     "autoload": {
         "psr-4": {
             "App\\": "src/",
-            "Framework": "framework/"
+            "Framework\\": "framework/"
         }
     },
     "authors": [

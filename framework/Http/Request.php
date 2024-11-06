@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Framework\Http;
 
-readonly final class Request
+final readonly class Request
 {
     public static function createFromGlobals(): static
     {
