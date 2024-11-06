@@ -1,0 +1,18 @@
+{
+    "name": "a3naumov/php-psr7-framework",
+    "description": "PHP PSR-7 Framework",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Artem Naumov",
+            "email": "naumovartem272@gmail.com"
+        }
+    ],
+    "require": {}
+}
