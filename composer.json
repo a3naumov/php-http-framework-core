@@ -15,5 +15,7 @@
             "email": "naumovartem272@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^8.3"
+    }
 }
